@@ -237,7 +237,7 @@ h6 {
     grid-template-columns: repeat(2, 1fr);
     justify-content: center;
     align-items: center;
-    height: 50vh;
+    height: 60vh;
 }
 
 .showcase .showcase-content {
@@ -333,13 +333,14 @@ footer .btn-block {
     border-bottom: 1px solid var(--primary-color);
 }
 
-
 .footer-container ul li a {color: #fff;}
 
 .footer-container img {
     width: 150px;
     margin-bottom: 0.8rem;
 }
+
+
 
 .footer-container {
     display: grid;
